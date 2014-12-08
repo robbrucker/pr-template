@@ -12,3 +12,4 @@ or use with the Sprintly pull request extension.
 
 ## Usage
 
+1. Create a pull request

@@ -7,10 +7,11 @@ or use with the Sprintly pull request extension.
 
 1. Install pull request extension: [PuRTy](https://chrome.google.com/webstore/detail/purty/efclbmjddhkddbchknpahlddnpnadjlm)
 2. In Settings > Extensions, click *options* for PuRTy
-3. Paste in the **proxied raw** url to template.md (https://github-raw-cors-proxy.herokuapp.com/sprucemail/pr-template/blob/master/template.md)
+3. Paste in the **proxied raw** url to template.md (https://rawgit.com/sprucemail/pr-template/master/template.md)
 4. Click *Close*
 
 ## Usage
 
 1. Create a pull request
 2. Click the PuRTy icon in the upper right corner of the URL address bar
+3. Wait a second for the extension to paste the template into the text area.

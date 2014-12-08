@@ -8,7 +8,7 @@ or use with the Sprintly pull request extension.
 1. Install pull request extension: [PuRTy](https://chrome.google.com/webstore/detail/purty/efclbmjddhkddbchknpahlddnpnadjlm)
 2. In Settings > Extensions, click *options* for PuRTy
 3. Paste in the **raw** url to template.md
-4. Click *Reset*
+4. Click *Close*
 
 ## Usage
 

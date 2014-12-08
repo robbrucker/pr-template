@@ -13,3 +13,4 @@ or use with the Sprintly pull request extension.
 ## Usage
 
 1. Create a pull request
+2. Click the PuRTy icon in the upper right corner of the URL address bar

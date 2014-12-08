@@ -1,6 +1,6 @@
 ## Links ##
-- [Sprintly Story](https://sprint.ly/product/16561/item/1451)
-- [Staged Site](http://andrew.sprucemail.com)
+- [Sprintly Story](https://url.to.sprintly.story)
+- [Staged Site](http://url.to.staged.site)
 
 ## Summary ##
 - High level list

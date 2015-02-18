@@ -25,6 +25,6 @@ Quick description of backend changes. If there are many then make a bulleted lis
 
 ## Needs ##
 
-- [ ] Design approval from Phillip
+- [ ] Design Approval
 - [ ] 1st Review
 - [ ] 2nd Review

@@ -1,5 +1,5 @@
 ## Links ##
-- [Sprintly Story](https://url.to.sprintly.story)
+- [Trello Card](https://url.to.trello.card)
 - [Staged Site](http://url.to.staged.site)
 - Related PR API / APP: github/[api or app]#PR_number
 

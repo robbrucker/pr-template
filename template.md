@@ -1,3 +1,10 @@
+## Type ##
+**See [Types](#types) in notes section**
+
+[Bug](#bug) 
+
+
+
 ## Links ##
 - [Trello Card](https://url.to.trello.card) - To get a link, open the card, click "Share and more..." in the bottom right, and copy the URL under "Link to this card".
 - [Staged Site](http://url.to.staged.site)
@@ -40,3 +47,12 @@ Quick description of frontend changes. For pull requests that contain multiple c
 
 - [ ] Yes
 - [ ] No
+
+
+## Notes ##
+### <a name="types">Types</a> ###
+* <a name="bug">Bug</a>: Definition
+* <a name="patch">Patch</a>: Definition
+* <a name="hotfix">Hotfix</a>: Definition
+* <a name="feature">Feature</a>: Definition
+* <a name="refactor">Refactor</a>: Definition

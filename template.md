@@ -1,8 +1,10 @@
 ## Type ##
-**See [Types](#types) in notes section**
 
-[Bug](#bug) 
-
+* [ ] Bug 
+* [ ] Patch
+* [ ] Hotfix
+* [ ] Feature
+* [ ] Refactor
 
 
 ## Links ##
@@ -47,12 +49,3 @@ Quick description of frontend changes. For pull requests that contain multiple c
 
 - [ ] Yes
 - [ ] No
-
-
-## Notes ##
-### <a name="types">Types</a> ###
-* <a name="bug">Bug</a>: Definition
-* <a name="patch">Patch</a>: Definition
-* <a name="hotfix">Hotfix</a>: Definition
-* <a name="feature">Feature</a>: Definition
-* <a name="refactor">Refactor</a>: Definition

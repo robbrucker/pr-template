@@ -11,10 +11,16 @@
 **Notes**: Any additional context here
 
 ### Backend Changes ###
-Quick description of backend changes. If there are many then make a bulleted list. If this is a front-end PR, then link to the API PR (sprucemail/api#PR_number)
+Quick description of backend changes. For pull requests that contain multiple changes, provide a concise bulleted list. 
+- Change 1
+- Change 2
+- Change 3
 
 ### Frontend Changes ###
-Quick description of backend changes. If there are many then make a bulleted list. If this is a back-end PR, then link to the App PR (sprucemail/app#PR_number).
+Quick description of frontend changes. For pull requests that contain multiple changes, provide a concise bulleted list. 
+- Change 1
+- Change 2
+- Change 3
 
 ## To Test ##
 

@@ -36,4 +36,7 @@ Quick description of frontend changes. For pull requests that contain multiple c
 - [ ] 1st Review
 - [ ] 2nd Review
 
-This branch SHOULD / SHOULD NOT (PICK ONE) be deleted when the PR is closed.
+**Delete branch when the PR is closed:**
+
+- [ ] Yes
+- [ ] No

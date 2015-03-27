@@ -29,3 +29,5 @@ Quick description of backend changes. If there are many then make a bulleted lis
 - [ ] Design Approval
 - [ ] 1st Review
 - [ ] 2nd Review
+
+This branch SHOULD / SHOULD NOT (PICK ONE) be deleted when the PR is closed.

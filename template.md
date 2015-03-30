@@ -1,4 +1,4 @@
-## Type ##
+**Type**: Bug/Patch/Hotfix/Feature/Refactor (PICK ONE)
 
 * [ ] Bug 
 * [ ] Patch
@@ -45,7 +45,4 @@ Quick description of frontend changes. For pull requests that contain multiple c
 - [ ] 1st Review
 - [ ] 2nd Review
 
-**Delete branch when the PR is closed:**
-
-- [ ] Yes
-- [ ] No
+**Delete branch when the PR is closed:** YES/NO (PICK ONE)

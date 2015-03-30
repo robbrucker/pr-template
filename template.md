@@ -39,3 +39,5 @@ Quick description of frontend changes. For pull requests that contain multiple c
 - [ ] 2nd Review
 
 **Delete branch when the PR is closed:** YES/NO (PICK ONE)
+
+**NOTE: This PR built using the [The snagajob PR Template](https://github.com/Snagajob/pr-template)**

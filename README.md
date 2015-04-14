@@ -14,4 +14,5 @@ or use with the Sprintly pull request extension.
 
 1. Create a pull request
 2. Click the PuRTy icon in the upper right corner of the URL address bar
+  - if you do not see the PuRTy icon in your url bar, try refreshing the page
 3. Wait a second for the extension to paste the template into the text area.

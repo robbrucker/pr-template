@@ -1,8 +1,8 @@
 **Type**: Feature/Bug/Patch/Hotfix/Refactor (PICK ONE)
 
 ## Links ##
-- [JIRA Card](https://url.to.trello.card)
-- [JIRA Card](https://url.to.trello.card)
+- [JIRA Card](https://snagajob.atlassian.net/browse/CP-1)
+- [JIRA Card](https://snagajob.atlassian.net/browse/CP-2)
 
 ## Summary ##
 - High level list

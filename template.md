@@ -1,6 +1,7 @@
 **Type**: Bug/Patch/Hotfix/Feature/Refactor (PICK ONE)
 
 ## Links ##
+- [JIRA issue](https://url.to.jira.issue) - To get a link, open the story, click "Share this issue" button in the top righyt, and copy the URL under "Link to issue".
 - [Trello Card](https://url.to.trello.card) - To get a link, open the card, click "Share and more..." in the bottom right, and copy the URL under "Link to this card".
 - [Staged Site](http://url.to.staged.site)
 - Related PR: Snagajob/REPO_NAME#PR_NUMBER

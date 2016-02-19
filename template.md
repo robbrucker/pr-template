@@ -10,8 +10,9 @@
 - Changes
 
 ## How I tested ##
-1. Tested using org 12345 (which has onboarding)
-2. Tested using org 09876 (which is an ecomm account)
+1. I did this with this user.
+2. Then I did this with this user.
+3. Finally I tried this.
 
 ## Needs ##
 

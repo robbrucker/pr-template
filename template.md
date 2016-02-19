@@ -9,6 +9,10 @@
 - Of major
 - Changes
 
+## How I tested ##
+1. Tested using org 12345 (which has onboarding)
+2. Tested using org 09876 (which is an ecomm account)
+
 ## Needs ##
 
 - [ ] 1st Review
